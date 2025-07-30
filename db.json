@@ -1,0 +1,116 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "john.doe@example.com",
+      "password": "pass123",
+      "firstName": "John",
+      "lastName": "Doe",
+      "phone": "+37498562596"
+    },
+    {
+      "id": "2",
+      "email": "jane.smith@example.com",
+      "password": "qwerty",
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "phone": "+37499121312"
+    },
+    {
+      "id": "3",
+      "email": "alex.moon@example.com",
+      "password": "moonshine",
+      "firstName": "Alex",
+      "lastName": "Moon",
+      "phone": "+37477509868"
+    },
+    {
+      "id": "4",
+      "email": "lisa.chan@example.com",
+      "password": "123123",
+      "firstName": "Lisa",
+      "lastName": "Chana",
+      "phone": "+37444807475"
+    }
+  ],
+  "messages": [
+    {
+      "id": "1",
+      "senderId": 1,
+      "receiverId": 2,
+      "message": "Hey Jane, how are you?"
+    },
+    {
+      "id": "2",
+      "senderId": 2,
+      "receiverId": 1,
+      "message": "Hi John! I'm good, thanks for asking."
+    },
+    {
+      "id": "3",
+      "senderId": 3,
+      "receiverId": 1,
+      "message": "Hey John, did you check the file?"
+    },
+    {
+      "id": "4",
+      "senderId": 1,
+      "receiverId": 3,
+      "message": "Yes, I did. Looks great!"
+    },
+    {
+      "id": "5",
+      "senderId": 4,
+      "receiverId": 2,
+      "message": "Hey Jane, want to catch up later?"
+    },
+    {
+      "id": "6",
+      "senderId": 2,
+      "receiverId": 4,
+      "message": "Sure Lisa, what time?"
+    },
+    {
+      "id": "7",
+      "senderId": 4,
+      "receiverId": 2,
+      "message": "1 PM"
+    },
+    {
+      "id": "93a1",
+      "senderId": "4",
+      "receiverId": "3",
+      "message": "Hello"
+    },
+    {
+      "id": "6cf3",
+      "senderId": "4",
+      "receiverId": "1",
+      "message": "Hiii"
+    },
+    {
+      "id": "0ec2",
+      "senderId": "2",
+      "receiverId": "4",
+      "message": "it so early"
+    },
+    {
+      "id": "abba",
+      "senderId": "4",
+      "receiverId": "1",
+      "message": "hello"
+    },
+    {
+      "id": "2944",
+      "senderId": "4",
+      "receiverId": "2",
+      "message": "kk"
+    },
+    {
+      "id": "6f43",
+      "senderId": "4",
+      "receiverId": "2",
+      "message": "aaaa"
+    }
+  ]
+}
